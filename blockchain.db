@@ -1,0 +1,4 @@
+2024-01-01T00:00:00,_default,_tag_sensor_id,20,_tag_status,operational,_field_temperature,15.240971
+2024-01-01T00:00:00,_default,_tag_sensor_id,30,_tag_status,maintenance,_field_temperature,20.5172
+2024-01-01T00:00:00,_default,_tag_sender_id,1700,_tag_status,confirmed,_field_amount,4.596327
+2024-01-01T00:00:00,_default,_tag_sender_id,1700,_tag_status,confirmed,_field_amount,7.463891
